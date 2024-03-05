@@ -1,0 +1,10 @@
+"activity": "Learn Express.js",
+    "availability": 0.25,
+    "type": "education",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Few to no challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "https://expressjs.com/",
+    "key": "3943506"
